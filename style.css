@@ -1,0 +1,11 @@
+#header{
+    background-image: url(port3.jpg);
+    color: red;
+    text-align: center;
+}
+.display{
+    display: flex;
+    width: 100%;
+    margin: 0 5px;
+    background-image: linear-gradient(purple blue );
+}
