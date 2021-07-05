@@ -3,14 +3,40 @@
     color: red;
     text-align: center;
 }
-.display{
+#display{
     display: flex;
+   
     }
 
    body{
        font-family: font-family: 'Mukta', sans-serif;;
+       background:white;
    }
    footer{
        text-align: center;
+       background-attachment: orange;
+       color: blue;
    }
+   .children1{
+    width: 80%;
+    padding: 20px;
+}
+.display-one{
+    margin-bottom: 50px;
+}
+#display-two{
+    display: flex;
+}
+.box-shadow{
+    background-color: cyan;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 10px 5px 8px black;
+    width: 800px;
+    text-align: justify;
+}
+.box-shadow:hover{
+    box-shadow: 0 0 10px paleturquoise;
+
+}
 
